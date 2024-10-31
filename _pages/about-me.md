@@ -10,11 +10,11 @@ Hi! I'm Jamie Milsom, a passionate data scientist and engineer with a background
 ## Curriculum vitae
 
 <div class="text-center">
-  <img src="/assets/files/jamie_milsom.png" alt="Jamie Milsom's CV" style="max-width: 100%; height: auto;" />
+  <img src="/assets/files/Jamie_Milsom.png" alt="Jamie Milsom's CV" style="max-width: 100%; height: auto;" />
 </div>
 
 <div class="text-center">
-  <a href="/assets/files/jamie_milsom.pdf" class="btn btn--primary btn--large">Download CV</a>
+  <a href="/assets/files/Jamie_Milsom.pdf" class="btn btn--primary btn--large">Download CV</a>
 </div>
 
 ## Contact
