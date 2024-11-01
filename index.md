@@ -4,8 +4,8 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/half_dome.jpg
-excerpt: "A passionate Data Scientist specialising in machine learning, computer vision, and multidisaplinary problems."
+  overlay_image: /assets/images/tower_ridge.jpeg
+excerpt: "Data Scientist with experience in machine learning, computer vision, and multidisciplinary problems."
 ---
 
 <div class="feature__wrapper">

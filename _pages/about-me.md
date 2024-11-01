@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 
-Hi! I'm Jamie Milsom, a passionate data scientist and engineer with a background in research and development. I'm interested in collaborative multidisciplinary projects and am also a keen outdoors enthusiast.
+Hi! I’m Jamie, a data scientist and engineer with a background in R&D. I’m drawn to complex, multidisciplinary projects and am an avid outdoors enthusiast.
 
 ## Curriculum vitae
 

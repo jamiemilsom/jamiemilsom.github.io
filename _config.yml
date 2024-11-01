@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jamie Milsom"
   avatar : "/assets/images/selfie.png"
-  bio    : "A passionate Data Scientist specialising in machine learning, computer vision, and multidisaplinary problems"
+  bio    : "Data Scientist / Machine Learning Engineer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
